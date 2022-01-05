@@ -1,5 +1,0 @@
----
-deployment:
-tasks:
-- export DEPLOYPATH=/home/drive96my/public_html/git
-- /bin/cp -R * $DEPLOYPATH
